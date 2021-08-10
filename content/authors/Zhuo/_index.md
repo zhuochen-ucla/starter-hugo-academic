@@ -19,7 +19,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Milky Way Supermassive Black Hole
-- Star formation history of nuclei of galaxies
+- Star formation history of the nuclei of galaxies
 - Infrared observing
 
 # Education to show in About widget
