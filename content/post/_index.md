@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Research Projects
 cms_exclude: true
 
 # View.

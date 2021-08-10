@@ -19,7 +19,8 @@ organizations:
 # Interests to show in About widget
 interests:
 - Milky Way Supermassive Black Hole
-- Star formation history of Nuclear star cluster
+- Star formation history of nuclei of galaxies
+- Infrared observing
 
 # Education to show in About widget
 education:
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zhuochen@astro.ucla.edu'
+  link: 'mailto:zhuochen@astro.ucla.edu'
 #link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
@@ -71,6 +72,6 @@ highlight_name: false
 ---
 
  
-Welcome! I am a sixth year graduate student at UCLA, working in the <a href="http://www.astro.ucla.edu/~ghezgroup/gc/">Galactic Center group</a> with Professor Andrea Ghez and Professor Tuan Do. My scientific research interests primarily focus on the supermassive black hole and the star formation history of the stellar population at the Milky Way Galactic Center. I have been learning and accumulating experience for five years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes, located at the Mauna Kea Summit in Hawaii. 
+Welcome! I am a sixth year graduate student in the Physics and Astronomy Department at UCLA, working in the <a href="http://www.astro.ucla.edu/~ghezgroup/gc/">Galactic Center group</a> with Professor <a href="http://astro.ucla.edu/~ghez/">Andrea Ghez</a> and Professor <a href="http://astro.ucla.edu/~tdo/index.html">Tuan Do</a>. My scientific research interests primarily focus on understanding the formation of the stellar population in galactic nuclei, the supermassive black hole at the Milky Way Galactic Center, and infrared astronomy observing. I'm currently studing the star formation history of the Milky Way nuclear star cluster for the first time with metallicity constraints. I have been accumulating experience for five years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes with adaptive optics, located at the Mauna Kea Summit in Hawaii. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ZhuoChen.pdf" "newtab" >}}CV{{< /staticref >}}.

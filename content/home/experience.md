@@ -7,9 +7,9 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 40
+weight: 60
 
-title: Experience
+title: Teaching
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Teaching Assistant
+    company: Astronomy 3, Nature of Universe
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor of Semiconductor Physics
-    company: University X
+    #company_logo: org-gc
+    location: UCLA
+    date_start: '2021-04-01'
+    date_end: '2021-06-25'
+    #description: |2-
+    #    Responsibilities include:
+    #    
+    #    * Analysing
+    #    * Modelling
+    #    * Deploying
+    #    
+  - title: Teaching Assistant
+    company: Astronomy 3, Nature of Universe
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #company_logo: org-gc
+    location: UCLA
+    date_start: '2020-09-01'
+    date_end: '2020-12-25'
+  - title: Teaching Assistant
+    company: Astronomy 5, Life in Universe
+    company_url: ''
+    #company_logo: org-gc
+    location: UCLA
+    date_start: '2017-04-01'
+    date_end: '2017-06-25'
+  - title: Teaching Assistant
+    company: Astronomy 81, Stars and Nebulae
+    company_url: ''
+    #company_logo: org-gc
+    location: UCLA
+    date_start: '2017-01-01'
+    date_end: '2017-03-25'
 
 design:
   columns: '2'

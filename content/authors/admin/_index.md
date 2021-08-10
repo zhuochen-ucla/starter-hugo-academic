@@ -67,7 +67,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Welcome! I am a sixth year graduate student at UCLA, working in the Galactic Center group with Professor Andrea Ghez and Tuan Do. My scientific research interests primarily focus on the supermassive black hole and the star formation history of the stellar population at the Milky Way Galactic Center. I have been learning and accumulating experience for five years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes, located at the Mauna Kea Summit in Hawaii. 
