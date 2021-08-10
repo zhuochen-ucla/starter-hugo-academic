@@ -18,7 +18,7 @@ cd public
 
 # Add changes to git.
 git add .
-git remote add origin https://github.com/zhuochen-ucla/zhuochen-ucla.github.io.git
+#git remote add origin https://github.com/zhuochen-ucla/zhuochen-ucla.github.io.git
 
 # Commit changes.
 msg="rebuilding site $(date)"
