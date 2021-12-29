@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research Projects | Zhuo Chen</title>
+    <link>https://zhuochen-ucla.github.io/post/</link>
+      <atom:link href="https://zhuochen-ucla.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Research Projects</title>
+      <link>https://zhuochen-ucla.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Reconstruction of the star formation history of the NSC</title>
+      <link>https://zhuochen-ucla.github.io/post/project2/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/project2/</guid>
+      <description>&lt;p&gt;As the closest galactic nucleus, the center of the Milky Way galaxy provides a distinct opportunity for studying phenomena and physical processes which may be happening in many other galactic nuclei. The innermost region of most galaxies is occupied by spectacularly dense and massive assemblies of stars, which forms the nuclear star cluster. The star formation in this extreme environment is believed to be affected by the central supermassive black hole, but the physical mechanisms behind are not entirely known. The Milky Way Galactic Center is the only place where we can observe in detail how the black hole affects the star formation in its vicinity.&lt;/p&gt;
+&lt;p&gt;This project furthers the star formation history study of the nuclear star cluster at the Galactic Center for the first time with new measurements of metal abundances for stars in this region. Age and metal abundances introduce some degeneracy in modeling the star formation history because stars with higher metal abundances or older ages both show lower brightness and surface temperature. The limitation of current star formation history analysis is that all previous studies have assumed a solar metal abundances for all stars due to limited observed samples, which would lead to large systematic errors in estimating the cluster age.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-h-r-diagram-with-mist-isochrones-for-ages-3-gyr-dashed-and-10-gyr-solid-with-colors-showing-the-different-metallicities-there-is-a-strong-degeneracy-between-the-age-and-metallicity-for-modelling-the-cluster-population-generally-the-stellar-population-with-lower-temperature-and-fainter-brightness-can-be-interpreted-as-either-old-or-high-metallicity&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: H-R diagram with MIST isochrones for ages 3 Gyr (’dashed’) and 10 Gyr (’solid’) with colors showing the different metallicities. There is a strong degeneracy between the age and metallicity for modelling the cluster population. Generally, the stellar population with lower temperature and fainter brightness can be interpreted as either old or high metallicity.&#34; srcset=&#34;
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_707c8420d8391fab2257969da60ab2bf.jpg 400w,
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_d765165c5990af316d5e0d1fffe41ed0.jpg 760w,
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_707c8420d8391fab2257969da60ab2bf.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: H-R diagram with MIST isochrones for ages 3 Gyr (’dashed’) and 10 Gyr (’solid’) with colors showing the different metallicities. There is a strong degeneracy between the age and metallicity for modelling the cluster population. Generally, the stellar population with lower temperature and fainter brightness can be interpreted as either old or high metallicity.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;Three proposed datasets:&lt;/strong&gt; 1) 83 late-type stars from the Gemini Near Infrared Integral Field Spectrograph survey (Do et al. 2015); 2) 687 late-type stars and 114 early-type stars from VLT KMOS Integral Field Spectrograph survey (Feldmeier-Krause et al. 2017); 3) 126 early-type stars from the Keck Galactic Center OSIRIS Wide-field Survey (GCOWS, Chu et al., in prep).&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Methodology:&lt;/strong&gt; We apply forward modeling and Bayesian framework to derive cluster physical properties by comparing observations to a synthetic cluster (&lt;strong&gt;Figure 3&lt;/strong&gt;). The observable features include stellar brightness, surface temperature, number of cluster members, and metallicity (metal abundances). The big contribution is to probe how metallicity affects stellar properties and breaks the degeneracy between stellar age and metallicity, and to predict a more convincing cluster age. We consider several star formation history model candidates: 1) One ancient single burst; 2) A constant star formation with linear/exponential rate; 3) Multiple bursts.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-diagram-of-generation-of-a-synthetic-normalized-cluster-with-observational-and-completeness-correction&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Diagram of generation of a synthetic normalized cluster with observational and completeness correction. &#34; srcset=&#34;
+               /post/project2/model_hubb017d319eb83c4db7ecaa130428dbed_5797716_9be8fee54d030ea4d689f29085c90165.jpg 400w,
+               /post/project2/model_hubb017d319eb83c4db7ecaa130428dbed_5797716_6f3ea3b7e1ff22fc37a4fc852776cc3d.jpg 760w,
+               /post/project2/model_hubb017d319eb83c4db7ecaa130428dbed_5797716_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/model_hubb017d319eb83c4db7ecaa130428dbed_5797716_9be8fee54d030ea4d689f29085c90165.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Diagram of generation of a synthetic normalized cluster with observational and completeness correction.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;This project will also model the initial mass function for the first time simultaneously, and present more accurate estimates on the number of compact objects at the Galactic center. This will result in the most accurate predictions so far of the rate of mergers of stellar-mass black holes and neutron stars, which is important for locating and interpreting gravitational-wave detections like those from laser interferometers like LIGO. See &lt;strong&gt;Figure 4&lt;/strong&gt;.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-from-hosek-et-al-2020-left-predicted-number-of-compact-objects-generated-by-nsc-after-10-gyr-assuming-a-top-heavy-imf-red-α--17-lu-et-al-2013-and-standard-kroupa-imf-blue-top-heavy-imf-produces--33-times-more-bh-and--21-times-more-ns-right-predicted-bh-bh-merger-rates-within-04-pc-of-nsc-with-given-bh-radial-profiles-and-bh-bh-binary-merger-fractions-a-top-heavy-imf-can-produce-bh-bh-mergers-with-a-rate-up-to--7-times-higher&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 4: From Hosek et al. 2020. Left: Predicted number of compact objects generated by NSC after 10 Gyr assuming a top-heavy IMF (red, α = 1.7, Lu et al. 2013) and standard Kroupa IMF (blue). Top-heavy IMF produces ∼ 3.3 times more BH and ∼ 2.1 times more NS. Right: Predicted BH-BH merger rates within 0.4 pc of NSC with given BH radial profiles and BH-BH binary merger fractions. A top-heavy IMF can produce BH-BH mergers with a rate up to ∼ 7 times higher. &#34; srcset=&#34;
+               /post/project2/gw_pred_hubb017d319eb83c4db7ecaa130428dbed_2165833_f6707c43c16b00c8c9a041d4c133a277.jpg 400w,
+               /post/project2/gw_pred_hubb017d319eb83c4db7ecaa130428dbed_2165833_229ec1a3136f49c2d3d667225b8e64c4.jpg 760w,
+               /post/project2/gw_pred_hubb017d319eb83c4db7ecaa130428dbed_2165833_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/gw_pred_hubb017d319eb83c4db7ecaa130428dbed_2165833_f6707c43c16b00c8c9a041d4c133a277.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 4: From Hosek et al. 2020. Left: Predicted number of compact objects generated by NSC after 10 Gyr assuming a top-heavy IMF (red, α = 1.7, Lu et al. 2013) and standard Kroupa IMF (blue). Top-heavy IMF produces ∼ 3.3 times more BH and ∼ 2.1 times more NS. Right: Predicted BH-BH merger rates within 0.4 pc of NSC with given BH radial profiles and BH-BH binary merger fractions. A top-heavy IMF can produce BH-BH mergers with a rate up to ∼ 7 times higher.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-term gas feeding behavior of the central supermassive black hole</title>
+      <link>https://zhuochen-ucla.github.io/post/getting-started/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/getting-started/</guid>
+      <description>&lt;h4 id=&#34;publication-consistency-of-the-infrared-variability-of-sgr-a-over-22-yrhttpsiopscienceioporgarticle1038472041-8213ab3c68&#34;&gt;Publication: &lt;a href=&#34;https://iopscience.iop.org/article/10.3847/2041-8213/ab3c68&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consistency of the Infrared Variability of SGR A* over 22 yr&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;The Milky Way Galactic Center (GC), approximately 8 kpc from Earth, is host to the closest known supermassive black hole (SMBH). This makes it an excellent laboratory for studying the accretion properties of SMBHs. The accretion flow onto the SMBH at the GC gives rise to its radiative counterpart named Sgr A*. Sgr A* was initially detected in the near-infrared (NIR) with adaptive optics observations in 2002. While earlier data exists in form of speckle imaging (1995–2005) with shift-and-add technique, Sgr A* was not detected in the initial analysis. Here, we improved our speckle holography analysis techniques. This has improved the sensitivity of the resulting speckle images by up to a factor of three. See Figure 1.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-comparison-of-the-different-high-angular-resolution-techniques-used-to-image-the-gc-the-early-data-has-been-analyzed-with-a-shift-and-add-b-the-original-implementation-of-speckle-holography-and-c-the-new-implementation-presented-in-this-work-ao-data-taken-at-a-similar-time-is-shown-in-d-the-new-speckle-holography-c-improves-the-sensitivity-of-the-final-images-by-up-to-a-factor-of-three-compared-to-the-initial-speckle-holography&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Comparison of the different high angular resolution techniques used to image the GC. The early data has been analyzed with (a) Shift-and-add, (b) the original implementation of speckle holography, and (c) the new implementation presented in this work. AO data taken at a similar time is shown in (d). The new speckle holography (c) improves the sensitivity of the final images by up to a factor of three compared to the initial speckle holography.&#34; srcset=&#34;
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_5ed0b6b80eeba5f5069716ac611ef775.jpg 400w,
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_3a7c5f9c89b3375d0d0f452df12d9158.jpg 760w,
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_5ed0b6b80eeba5f5069716ac611ef775.jpg&#34;
+               width=&#34;718&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Comparison of the different high angular resolution techniques used to image the GC. The early data has been analyzed with (a) Shift-and-add, (b) the original implementation of speckle holography, and (c) the new implementation presented in this work. AO data taken at a similar time is shown in (d). The new speckle holography (c) improves the sensitivity of the final images by up to a factor of three compared to the initial speckle holography.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;With the new implemented speckle holography presented in this work, Sgr A* is now detectable in the majority of speckle epochs covering 7 yr (Figure 2). Here we report new infrared (IR) measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-speckle-holography-images-with-new-sgr-a-detections-white-circles-for-each-detection-the-k-magnitude-k-and-the-bootstrap-fraction-f-are-provided-these-are-the-first-ir-detections-of-sgr-a-in-the-late-1990s-and-early-2000s&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Speckle holography images with new Sgr A* detections (white circles). For each detection, the K magnitude (K) and the bootstrap fraction (F) are provided. These are the first IR detections of Sgr A* in the late 1990s and early 2000s.&#34; srcset=&#34;
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_88887c20adf05ca3b8027ed8f408f781.jpg 400w,
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_f6bb788c420839bf1404da3f1f990487.jpg 760w,
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_88887c20adf05ca3b8027ed8f408f781.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Speckle holography images with new Sgr A* detections (white circles). For each detection, the K magnitude (K) and the bootstrap fraction (F) are provided. These are the first IR detections of Sgr A* in the late 1990s and early 2000s.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;p&gt;The brightness of Sgr A* in the speckle data has an average observed K magnitude of 16.0, which corresponds to a dereddened flux density of 3.4 mJy. Furthermore, the flat power spectral density of Sgr A* between ∼80 days and 7 yr shows its uncorrelation in time beyond the proposed single power-law break of ∼245 minutes. We report that the brightness and its variability is consistent over 22 yr. Finally, we note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the NIR emission from accretion flow onto Sgr A*. The result is consistent with G1 being a self-gravitating object rather than a disrupting gas cloud. See Figure 3.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-light-curve-of-sgr-a-1998-2005-and-impact-of-g1ʼs-closest-approach-on-the-brightness-of-sgr-a-the-points-with-errorbars-are-the-confirmed-detections-of-sgr-a-the-arrows-mark-the-brightness-limit-of-sgr-a-in-other-non-detected-epochs-the-blue-dashed-line-marks-the-g1ʼs-periapse-2001-and-red-line-marks-the-predicted-peak-sgr-a-flux-due-to-the-closest-approach-of-g1-no-brightening-or-flares-of-sgr-a-ie-no-apparent-impacts-of-g1-on-the-sgr-a-ir-emission-were-observed-between-2001-and-2005&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Light curve of Sgr A* (1998-2005) and impact of G1ʼs closest approach on the brightness of Sgr A*. The points with errorbars are the confirmed detections of Sgr A*. The arrows mark the brightness limit of Sgr A* in other non-detected epochs. The blue dashed line marks the G1ʼs periapse (2001), and red line marks the predicted peak Sgr A* flux due to the closest approach of G1. No brightening or flares of Sgr A*, i.e., no apparent impacts of G1 on the Sgr A* IR emission, were observed between 2001 and 2005.&#34; srcset=&#34;
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_2ce728ee72be55233a85674a8af1f564.jpg 400w,
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_34cf086bf6eec76b8c89892387e493a0.jpg 760w,
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_2ce728ee72be55233a85674a8af1f564.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;498&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Light curve of Sgr A* (1998-2005) and impact of G1ʼs closest approach on the brightness of Sgr A*. The points with errorbars are the confirmed detections of Sgr A*. The arrows mark the brightness limit of Sgr A* in other non-detected epochs. The blue dashed line marks the G1ʼs periapse (2001), and red line marks the predicted peak Sgr A* flux due to the closest approach of G1. No brightening or flares of Sgr A*, i.e., no apparent impacts of G1 on the Sgr A* IR emission, were observed between 2001 and 2005.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

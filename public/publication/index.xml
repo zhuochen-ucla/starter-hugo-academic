@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuo Chen</title>
+    <link>https://zhuochen-ucla.github.io/publication/</link>
+      <atom:link href="https://zhuochen-ucla.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuo Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhuo Chen</title>
+      <link>https://zhuochen-ucla.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Consistency of the Infrared Variability of SGR A* over 22 yr</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub1/</link>
+      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unprecedented Near-infrared Brightness and Variability of Sgr A*</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub2/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativistic redshift of the star S0-2 orbiting the Galactic Center supermassive black hole</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub3/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Envisioning the next decade of Galactic Center science: a laboratory for the study of the physics and astrophysics of supermassive black holes</title>
+      <link>https://zhuochen-ucla.github.io/publication/example/</link>
+      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
