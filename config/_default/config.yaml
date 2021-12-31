@@ -28,7 +28,7 @@ module:
 ############################
 ## ADVANCED
 ############################
-
+text-align: justify
 enableGitInfo: false
 summaryLength: 30
 paginate: 10
@@ -49,6 +49,7 @@ imaging:
   resampleFilter: lanczos
   quality: 100
   anchor: smart
+  text-align: center
 timeout: 600000
 taxonomies:
   tag: tags
@@ -63,6 +64,6 @@ related:
   toLower: true
   indices:
     - name: tags
-      weight: 100
+      weight: 70
     - name: categories
       weight: 70

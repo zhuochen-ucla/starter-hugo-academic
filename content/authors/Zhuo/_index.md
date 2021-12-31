@@ -19,7 +19,9 @@ organizations:
 # Interests to show in About widget
 interests:
 - Milky Way Supermassive Black Hole
-- Star formation history of the nuclei of galaxies
+- Star formation history of galactic nuclei
+- Star clusters & compact objects
+- Timing variability
 - Infrared observing
 
 # Education to show in About widget
@@ -65,13 +67,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "zhuochen@astro.ucla.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
- 
-Welcome! I am a sixth year graduate student in the Physics and Astronomy Department at UCLA, working in the <a href="http://www.astro.ucla.edu/~ghezgroup/gc/">Galactic Center group</a> with Professor <a href="http://astro.ucla.edu/~ghez/">Andrea Ghez</a> and Professor <a href="http://astro.ucla.edu/~tdo/index.html">Tuan Do</a>. My scientific research interests primarily focus on understanding the formation of the stellar population in galactic nuclei, the supermassive black hole at the Milky Way Galactic Center, and infrared astronomy observing. I'm currently studing the star formation history of the Milky Way nuclear star cluster for the first time with metallicity constraints. I have been accumulating experience for five years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes with adaptive optics, located at the Mauna Kea Summit in Hawaii. 
+<div style="text-align: justify"> 
+Welcome! I am a sixth year graduate student in the Physics and Astronomy Department at UCLA, working in the <a href="http://www.astro.ucla.edu/~ghezgroup/gc/">Galactic Center group</a> with Professor <a href="http://astro.ucla.edu/~ghez/">Andrea Ghez</a> and Professor <a href="http://astro.ucla.edu/~tdo/index.html">Tuan Do</a>. My scientific research interests primarily focus on understanding the formation of the stellar population in galactic nuclei, the supermassive black hole at the Milky Way Galactic Center, and infrared astronomy observing. I'm currently studing the star formation history of the Milky Way nuclear star cluster for the first time with metallicity constraints. I have been accumulating experience for six years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes with adaptive optics, located at the Mauna Kea Summit in Hawaii. 
+</div>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ZhuoChen.pdf" "newtab" >}}CV{{< /staticref >}}.

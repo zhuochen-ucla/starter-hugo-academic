@@ -1,5 +1,5 @@
 ---
-title: Talks & Posters
+title: Press & Talks & Posters
 cms_exclude: true
 
 # View.

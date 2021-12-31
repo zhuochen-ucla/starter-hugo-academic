@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talks &amp; Posters | Zhuo Chen</title>
+    <title>Press &amp; Talks &amp; Posters | Zhuo Chen</title>
     <link>https://zhuochen-ucla.github.io/event/</link>
       <atom:link href="https://zhuochen-ucla.github.io/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talks &amp; Posters</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Sep 2020 09:00:00 +0000</lastBuildDate>
+    <description>Press &amp; Talks &amp; Posters</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 09:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Talks &amp; Posters</title>
+      <title>Press &amp; Talks &amp; Posters</title>
       <link>https://zhuochen-ucla.github.io/event/</link>
     </image>
     
     <item>
-      <title>A New Framework for Understanding the Star Formation History at the Galactic Center</title>
-      <link>https://zhuochen-ucla.github.io/talk/a-new-framework-for-understanding-the-star-formation-history-at-the-galactic-center/</link>
-      <pubDate>Thu, 24 Sep 2020 09:00:00 +0000</pubDate>
-      <guid>https://zhuochen-ucla.github.io/talk/a-new-framework-for-understanding-the-star-formation-history-at-the-galactic-center/</guid>
+      <title>PRESS CONFERENCE - A New Window on Star Formation History at the Galactic Center</title>
+      <link>https://zhuochen-ucla.github.io/talk/press-conference-a-new-window-on-star-formation-history-at-the-galactic-center/</link>
+      <pubDate>Wed, 12 Jan 2022 09:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/talk/press-conference-a-new-window-on-star-formation-history-at-the-galactic-center/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Window on Star Formation History at the Galactic Center</title>
+      <link>https://zhuochen-ucla.github.io/talk/a-new-window-on-star-formation-history-at-the-galactic-center/</link>
+      <pubDate>Thu, 09 Sep 2021 09:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/talk/a-new-window-on-star-formation-history-at-the-galactic-center/</guid>
       <description></description>
     </item>
     

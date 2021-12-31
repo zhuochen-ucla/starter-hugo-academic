@@ -59,7 +59,7 @@ directions: Knudsen 3-145 J
 
 main_menu:
   enable: true
-  align: l
+  align: justify
   show_logo: false
   show_language: false
   show_day_night: true

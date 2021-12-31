@@ -1,10 +1,10 @@
 ---
-title: A New Framework for Understanding the Star Formation History at the Galactic Center
+title: A New Window on Star Formation History at the Galactic Center
 
-event: Keck Science Meeting 2020
+event: Keck Science Meeting 2021
 #event_url: https://example.org
 
-location: Virtual
+location: San Diego, CA
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -12,13 +12,13 @@ location: Virtual
 #  postcode: '94305'
 #  country: United States
 
-summary: Poster - Keck Science Meeting 2020
-#abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Talk - Keck Science Meeting 2021
+abstract: "As the closest galactic nucleus, Milky Way's Nuclear Star Cluster (NSC) provides a unique opportunity to resolve the stellar population and to study its composition and star formation in this extreme environment. The limitation in our current understanding of the NSC star formation history is that previous studies assumed that all stars have solar metallicity. However, age and metallicity are degenerate parameters in star formation histories; by ignoring the effect of metallicities, the age estimates can be biased. Recent spectroscopic surveys showed a significant spread in the metallicity of stars in the NSC, which motivates us to revisit the star formation history and its implications on the formation and evolution of the NSC. In this talk I will present the star formation history of the NSC for the first time with metallicity constraints as obtained from large sample of stellar metallicity measurements from Keck, Gemini and VLT. The analysis shows significantly different star formation history than any previously published works. In addition, we model the initial mass function for the first time simultaneously, and present more accurate estimates on the number of compact objects at the Galactic center. "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-24T09:00:00Z"
-date_end: "2020-09-25T17:00:00Z"
+date: "2021-09-09T09:00:00Z"
+date_end: "2021-09-09T17:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

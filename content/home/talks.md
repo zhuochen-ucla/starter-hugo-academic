@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 40
 
-title: 'Talks & Posters'
+title: 'Press & Talks'
 subtitle:
 
 content:
