@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhuo Chen</title>
+    <link>https://zhuochen-ucla.github.io/publication/</link>
+      <atom:link href="https://zhuochen-ucla.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhuo Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Zhuo Chen</title>
+      <link>https://zhuochen-ucla.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>A New Cosmic Ray Rejection Routine for HST WFC3/UVIS via label-free training of deepCR</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub0/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Star Formation History of the Milky Way’s Nuclear Star Cluster</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub1/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency of the Infrared Variability of SGR A* over 22 yr</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub2/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of a Decreased Binary Fraction for Massive Stars within 20 milliparsecs of the Supermassive Black Hole at the Galactic Center</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub6/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unprecedented Near-infrared Brightness and Variability of Sgr A*</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub5/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Relativistic redshift of the star S0-2 orbiting the Galactic Center supermassive black hole</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub3/</link>
+      <pubDate>Fri, 16 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring the alpha-abundance of subsolar-metallicity stars in the Milky Way&#39;s central half-parsec: testing globular cluster and dwarf galaxy infall scenarios</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub4/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Envisioning the next decade of Galactic Center science: a laboratory for the study of the physics and astrophysics of supermassive black holes</title>
+      <link>https://zhuochen-ucla.github.io/publication/example/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chandra X-ray measurement of gas-phase heavy element abundances in the central parsec of the galaxy</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | Zhuo Chen</title>
+    <link>https://zhuochen-ucla.github.io/tag/academic/</link>
+      <atom:link href="https://zhuochen-ucla.github.io/tag/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://zhuochen-ucla.github.io/tag/academic/</link>
+    </image>
+    
+    <item>
+      <title>The Panchromatic Hubble Andromeda Southern Treasury (PHAST) survey</title>
+      <link>https://zhuochen-ucla.github.io/post/projectphast/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/projectphast/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-left-density-map-of-main-sequence-ms-stars-inset-shows-stars-with-f475w&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Left: Density map of main sequence (MS) stars; inset shows stars with F475W &#34; srcset=&#34;
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_007ceba7513d281f659462b67c8fc1df.jpg 400w,
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_13966609d81f2a5ddec75bc6206284d5.jpg 760w,
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_007ceba7513d281f659462b67c8fc1df.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Left: Density map of main sequence (MS) stars; inset shows stars with F475W &amp;lt; 26.5 mag. Upcoming data will complete the PHAST region. Right: Optical CMD of one field, presenting good quality stars that exhibit distinct features. MS stars from red polygon populate the left map.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This Panchromatic Hubble Andromeda Southern Treasury (PHAST) survey is creating a legacy map of M31’s southern star-forming disk (Chen et al., in prep) with photometric observations from the Hubble Space Telescope (HST), covering both optical (F475W, F814W) and near ultraviolet (F275W, F336W). As the closest large metal-rich spiral to the Milky Way, M31 offers a unique laboratory to resolve stars in the disk to study star and galaxy formation and evolution. The PHAST survey, spanning ~13 kpc along the southern major axis, covers regions structurally unique and more indicative of merger history than the northern disk, as mapped in the completed PHAT program. The survey includes 195 orbit visits, totaling 1,560 exposures. 98% of the PHAST observations are now complete.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-color-image-of-one-brick-created-using-the-phast-survey-images-in-f814w-red-f475w-green-and-f336w-blue-the-zoom-in-panel-shows-the-rich-detail-available-at-hst-resolution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Color image of one brick, created using the PHAST survey images in F814W (red), F475W (green) and F336W (blue). The zoom-in panel shows the rich detail available at HST resolution&#34; srcset=&#34;
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_6f7f0d7e844a62fcdf5e8be02eda3203.jpg 400w,
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_d7b810d0009b778b65d00df4a779ef92.jpg 760w,
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_6f7f0d7e844a62fcdf5e8be02eda3203.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Color image of one brick, created using the PHAST survey images in F814W (red), F475W (green) and F336W (blue). The zoom-in panel shows the rich detail available at HST resolution
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;I have measured photometry for over 100 million resolved stars in M31, employing simultaneous point spread function (PSF) fitting with DOLPHOT across all bands and source positions with precise astrometry. Photometry is refined using quality criteria, with stars that pass the metric displaying distinct features on the color-magnitude diagram (CMD, Figure 1). In the uncrowded outer disk, photometry reaches F275W~25, F336W~26, F475W~28, and F814W~27. Alongside the PHAT legacy catalog, these datasets cover the entire galaxy (Figure 1), creating the largest catalog ever for over 200 million equidistant sources, soon available to the public.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-left-northern-m31s-star-formation-history-measured-from-phat-showing-a-2-gyr-old-burst-right-illustris-predictions-for-two-halves-of-an-m31-analog-with-a-4-gyr-ago-major-merger-only-one-half-has-a-star-formation-episode-2-4-gyr-ago-similar-to-phat&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Left: Northern M31’s star formation history measured from PHAT, showing a 2-Gyr old burst. Right: Illustris predictions for two halves of an M31-analog with a 4-Gyr-ago major merger. Only one half has a star formation episode 2-4 Gyr ago similar to PHAT.&#34; srcset=&#34;
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_8335f55d7008359dfd0a38cc4aa63ebd.jpg 400w,
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_0938f8e46a12d98f7eafbf9c179c67ed.jpg 760w,
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_8335f55d7008359dfd0a38cc4aa63ebd.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Left: Northern M31’s star formation history measured from PHAT, showing a 2-Gyr old burst. Right: Illustris predictions for two halves of an M31-analog with a 4-Gyr-ago major merger. Only one half has a star formation episode 2-4 Gyr ago similar to PHAT.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;I am currently investigating the ancient and recent star formation history of M31’s southern disk, which covers key diagnostic features indicative of its merger history, including intersections with M32, the giant southern stream, the splitted star formation ring, and southern bar. Competing merger history models for M31 suggest distinct stellar population signatures. Illustris simulations of an M31 analog suggest that if a major merger occurred 4 Gyr ago, one disk half would exhibit a significant star formation burst between 2 - 4 Gyr ago, as seen in PHAT, while the other wouldn&amp;rsquo;t (Figure 3). This burst would create discernible CMD features with a significance over 10σ. My work involves spatially mapping the southern disk&amp;rsquo;s star formation history by fitting the observed CMDs to stellar evolution models using the MATCH code. Additionally, we are developing a novel method to construct the large-scale dust geometry using only the PHAST optical catalog. This comprehensive star formation history mapping will reveal any existing asymmetry and determine the timescales of merger scenarios throughout the disk, providing observational constraints of the impact of mergers on disk formation and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New Cosmic Ray Rejection Routine for HST WFC3/UVIS via label-free training of deepCR</title>
+      <link>https://zhuochen-ucla.github.io/post/projectcr/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/projectcr/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-top-left-wfc3uvis-calibrated-dark-frame-hst16568-top-right-wfc3uvis-image-in-f336w-of-m31-hst16801-bottom-left-the-result-of-adding-the-dark-frame-to-the-raw-image-bottom-right-the-same-image-with-all-crs-removed-by-deepcr-including-both-from-the-raw-image-and-dark-frame-masked-pixel-values-are-filled-with-a-3--3-median-filter&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Top left: WFC3/UVIS calibrated dark frame (HST:16568). Top right: WFC3/UVIS image in F336W of M31 (HST:16801). Bottom left: The result of adding the dark frame to the raw image. Bottom right: The same image with all CRs removed by deepCR, including both from the raw image and dark frame. Masked pixel values are filled with a 3 × 3 median filter.&#34; srcset=&#34;
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_d1ca710db4db19a82fa860d98cb4ce9b.jpg 400w,
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_f1f4b77dfad44910a0506cbc37d6d4ca.jpg 760w,
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_d1ca710db4db19a82fa860d98cb4ce9b.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Top left: WFC3/UVIS calibrated dark frame (HST:16568). Top right: WFC3/UVIS image in F336W of M31 (HST:16801). Bottom left: The result of adding the dark frame to the raw image. Bottom right: The same image with all CRs removed by deepCR, including both from the raw image and dark frame. Masked pixel values are filled with a 3 × 3 median filter.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;deepCR is a deep-learning-based cosmic ray (CR) rejection framework originally presented by Zhang &amp;amp; Bloom (2020). The original approach requires a dedicated training set that consists of multiple frames of the same fields, enabling automatic CR labeling through comparison with their median co-adds. Here, we present a novel training approach that circumvents the need for a dedicated training set, but instead utilizes dark frames and the science images requiring CR removal themselves. During training, CRs present in dark frames are added to the science images, which the network is then trained to identify. In turn, the trained deepCR model can then be applied to identify CRs originally present in the science images. Using this approach, we present a new deepCR model trained on a diverse set of Hubble Space Telescope (HST) images taken from resolved galaxies in the local group, which is universally applicable across all WFC3/UVIS filters.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-top-left-fraction-of-total-number-of-gst-stars-from-one-example-hst-visit-as-applied-with-different-deepcr-masking-thresholds-compared-to-the-legacy-mode-the-resulting-number-of-gst-stars-drops-quickly-below-the-threshold-of-01-top-right-fraction-of-gst-stars-that-are-added-or-lost-with-different-deepcr-masking-thresholds-respectively-which-together-construct-the-overall-curve-on-the-left-figure-bottom-left-uv-gst-cmd-the-red-box-marks-the-cmd-features-of-the-most-importance-bottom-right-fraction-of-gst-stars-that-are-added-or-lost-within-the-cmd-featured-box-as-a-function-of-deepcr-masking-thresholds-dashed-lines-represent-the-results-when-the-featured-box-is-dithered-to-avoid-selection-edge-effects-deepcr-masking-keeps-adding-more-gst-stars-within-the-cmd-featured-region-until-the-threshold-is-around-008-while-the-masking-starts-to-lose-featured-stars-prominently-below-the-threshold-of-01&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Top left: Fraction of total number of GST stars from one example HST visit as applied with different deepCR masking thresholds compared to the legacy mode. The resulting number of GST stars drops quickly below the threshold of 0.1. Top right: Fraction of GST stars that are added or lost with different deepCR masking thresholds, respectively, which together construct the overall curve on the left figure. Bottom left: UV GST CMD. The red box marks the CMD features of the most importance. Bottom right: Fraction of GST stars that are added or lost within the CMD featured box as a function of deepCR masking thresholds. Dashed lines represent the results when the featured box is dithered to avoid selection edge effects. deepCR masking keeps adding more GST stars within the CMD featured region until the threshold is around 0.08, while the masking starts to lose featured stars prominently below the threshold of 0.1.&#34; srcset=&#34;
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_77269b9dc11b43e6466ebcb2eda696f4.jpg 400w,
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_fbf03314aee10d7a1c498136c765123c.jpg 760w,
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_77269b9dc11b43e6466ebcb2eda696f4.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Top left: Fraction of total number of GST stars from one example HST visit as applied with different deepCR masking thresholds compared to the legacy mode. The resulting number of GST stars drops quickly below the threshold of 0.1. Top right: Fraction of GST stars that are added or lost with different deepCR masking thresholds, respectively, which together construct the overall curve on the left figure. Bottom left: UV GST CMD. The red box marks the CMD features of the most importance. Bottom right: Fraction of GST stars that are added or lost within the CMD featured box as a function of deepCR masking thresholds. Dashed lines represent the results when the featured box is dithered to avoid selection edge effects. deepCR masking keeps adding more GST stars within the CMD featured region until the threshold is around 0.08, while the masking starts to lose featured stars prominently below the threshold of 0.1.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New Window on Star Formation History of the NSC at the Galactic Center</title>
+      <link>https://zhuochen-ucla.github.io/post/project2/</link>
+      <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/project2/</guid>
+      <description>&lt;h4 id=&#34;publication-the-star-formation-history-of-the-milky-ways-nuclear-star-clusterhttpsdoiorg1038471538-4357aca8ad&#34;&gt;Publication: &lt;a href=&#34;https://doi.org/10.3847/1538-4357/aca8ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Star Formation History of the Milky Way’s Nuclear Star Cluster&lt;/a&gt;&lt;/h4&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-the-milky-way-galaxy-hosts-a-supermassive-black-hole-named-as-sgr-a-shown-in-the-inset-on-the-right-embedded-in-the-nuclear-star-cluster-nsc-at-the-center-highlighted-and-enlarged-in-the-middle-panel-the-supermassive-black-hole-at-the-milky-way-galactic-center-is-the-only-one-where-we-can-observe-individual-stars-to-study-their-formation-and-interactions&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: The Milky Way galaxy hosts a supermassive black hole (named as Sgr A*, shown in the inset on the right), embedded in the Nuclear Star Cluster (NSC) at the center, highlighted and enlarged in the middle panel. The supermassive black hole at the Milky Way Galactic Center is the only one where we can observe individual stars to study their formation and interactions. &#34; srcset=&#34;
+               /post/project2/nsc_f1_hu535661bce2c742bf7a0f6a055ac0b6d1_694783_3457007b0c6caeb86ea3604a94e846d0.jpg 400w,
+               /post/project2/nsc_f1_hu535661bce2c742bf7a0f6a055ac0b6d1_694783_89dcd0796f8211f0e13f74176426bf79.jpg 760w,
+               /post/project2/nsc_f1_hu535661bce2c742bf7a0f6a055ac0b6d1_694783_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/nsc_f1_hu535661bce2c742bf7a0f6a055ac0b6d1_694783_3457007b0c6caeb86ea3604a94e846d0.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: The Milky Way galaxy hosts a supermassive black hole (named as Sgr A*, shown in the inset on the right), embedded in the Nuclear Star Cluster (NSC) at the center, highlighted and enlarged in the middle panel. The supermassive black hole at the Milky Way Galactic Center is the only one where we can observe individual stars to study their formation and interactions.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Given its proximity, the Milky Way Galactic Center provides a valuable opportunity for studying phenomena and physical processes which may be happening in many other galactic nuclei. The innermost region of most galaxies is occupied by a spectacularly dense and massive assembly of stars, which forms the nuclear star cluster (NSC, &lt;strong&gt;Figure 1&lt;/strong&gt;). The star formation in this region is believed to be affected by the central SMBH, but the physical mechanisms behind it are not entirely known. The Galactic Center provides a unique opportunity to resolve the stellar population and to study its composition and star formation, and also allows us to predict the number of compact objects.&lt;/p&gt;
+&lt;p&gt;The limitation in our current understanding of the NSC star formation history is that previous studies assumed that all stars have solar metallicity. However, age and metallicity are degenerate parameters in star formation histories (&lt;strong&gt;Figure 2&lt;/strong&gt;); by ignoring the effect of metallicities, the age estimates can be biased. ​​Recent spectroscopic surveys showed a significant spread in the metallicity of stars in NSC, which motivates us to revisit the star formation history and its implications on NSC’s formation and evolution.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-h-r-diagram-with-mist-isochrones-for-ages-3-gyr-dashed-and-10-gyr-solid-with-colors-showing-the-different-metallicities-there-is-a-strong-degeneracy-between-the-age-and-metallicity-for-modelling-the-cluster-population-generally-the-stellar-population-with-lower-temperature-and-fainter-brightness-can-be-interpreted-as-either-old-or-high-metallicity&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: H-R diagram with MIST isochrones for ages 3 Gyr (’dashed’) and 10 Gyr (’solid’) with colors showing the different metallicities. There is a strong degeneracy between the age and metallicity for modelling the cluster population. Generally, the stellar population with lower temperature and fainter brightness can be interpreted as either old or high metallicity.&#34; srcset=&#34;
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_707c8420d8391fab2257969da60ab2bf.jpg 400w,
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_d765165c5990af316d5e0d1fffe41ed0.jpg 760w,
+               /post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/dege_hubb017d319eb83c4db7ecaa130428dbed_4309442_707c8420d8391fab2257969da60ab2bf.jpg&#34;
+               width=&#34;80%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: H-R diagram with MIST isochrones for ages 3 Gyr (’dashed’) and 10 Gyr (’solid’) with colors showing the different metallicities. There is a strong degeneracy between the age and metallicity for modelling the cluster population. Generally, the stellar population with lower temperature and fainter brightness can be interpreted as either old or high metallicity.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;In this project, I present NSC’s star formation history for the first time with metallicity constraints as obtained from a large sample of stellar metallicity measurements from Keck, Gemini and VLT. I developed a Bayesian inference methodology to derive NSC’s star formation history and global properties from photometry and spectroscopy of 770 late-type stars. I apply a forward-modeling approach and a Bayesian framework to derive properties using simulations of synthetic clusters while accounting for observational uncertainties, completeness, degeneracies between properties and stellar multiplicity. &lt;strong&gt;I have successfully established a 3-d cluster modeling tool (Chen et al. 2023a), that for the first time includes measurements of K luminosity, colors, effective temperature (Teff) and metallicity&lt;/strong&gt;. This tool improves the constraints on NSC’s age, metallicity distribution and initial mass function (IMF). I contributed to the open source Python package SPISEA (Hosek et al. 2020) with metallicity interpolation in generating clusters, and the first function of star formation history modeling.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-hess-diagrams-of-model-predicted-clusters-overplotted-with-do-et-al-2015-dataset-right-panel-low-temperature-stars-are-able-to-be-well-fitted-for-the-first-time-in-this-work-the-observed-dataset-containing-late-type-stars-is-characterized-by-the-modeled-two-bursts-of-star-formation-events-bulk-stellar-mass--90-is-older-and-metal-rich-bright-strip-in-right-panel-the-second-burst--10-of-stellar-mass-is-younger-and-metal-poor-top-left-in-right-panel&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Hess diagrams of model-predicted clusters, overplotted with Do et al. (2015) dataset. Right panel: Low-temperature stars are able to be well fitted for the first time in this work. The observed dataset containing late-type stars is characterized by the modeled two bursts of star formation events. Bulk stellar mass (~ 90%) is older and metal-rich (bright strip in Right panel). The second burst (~ 10% of stellar mass) is younger and metal-poor (top left in Right panel). &#34; srcset=&#34;
+               /post/project2/Hess_Do_hubeeb99717e5b94f0372a3cf1b6b3a294_78607_fb5d1d837f62fabaf5dd06a7db340b16.png 400w,
+               /post/project2/Hess_Do_hubeeb99717e5b94f0372a3cf1b6b3a294_78607_089fc3d2879799e12c4570ddf5da187e.png 760w,
+               /post/project2/Hess_Do_hubeeb99717e5b94f0372a3cf1b6b3a294_78607_1200x1200_fit_lanczos_3.png 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/Hess_Do_hubeeb99717e5b94f0372a3cf1b6b3a294_78607_fb5d1d837f62fabaf5dd06a7db340b16.png&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Hess diagrams of model-predicted clusters, overplotted with Do et al. (2015) dataset. Right panel: Low-temperature stars are able to be well fitted for the first time in this work. The observed dataset containing late-type stars is characterized by the modeled two bursts of star formation events. Bulk stellar mass (~ 90%) is older and metal-rich (bright strip in Right panel). The second burst (~ 10% of stellar mass) is younger and metal-poor (top left in Right panel).
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;&lt;strong&gt;RESULTS&lt;/strong&gt;: Roughly 90% of the stellar mass formed ~3.6 Gyr ago and is metal-rich (metallicity [Fe/H]=0.45), while the remaining 10% stellar mass formed ~0.6 Gyr ago and is metal-poor ([Fe/H]= -1.05). See &lt;strong&gt;Figure 3&lt;/strong&gt;. The star formation history of the NSC favors a canonical IMF (Salpeter 1955) for late-type stars. Previous studies, assuming a solar metallicity for all stars, reported that ~80% of stellar masses formed more than 5 Gyr ago (Pfuhl et al. 2011). I performed a cluster modeling with fixed solar metallicity and the results yield an age of 7.1 Gyr. If the cluster is assumed to be solar metallicity, the age of the cluster would increase by a factor of two &lt;strong&gt;(Figure 4)&lt;/strong&gt;. By including metallicity as a parameter, our models are able to account for stars that were previously difficult to fit, such as low-temperature red giants.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-4-1d-posterior-probability-density-functions-for-fittings-on-the-age-and-metallicity-of-the-ancient-burst-bulk-mass-top-panels-with-the-cluster-metallicity-being-constrained-from-stellar-metallicity-measurements-the-bulk-stellar-mass-was-modeled-to-be-36-gyr-with-feh045-bottom-panels-fixed-solar-metallicity-modeling-yields-an-age-of-71-gyr-which-is-twice-as-old-the-nsc-is-modeled-to-be-half-as-young--3-gyr-younger-if-including-metallicity-constraints&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 4: 1D posterior probability density functions for fittings on the age and metallicity of the ancient burst (bulk mass). Top panels: With the cluster metallicity being constrained from stellar metallicity measurements, the bulk stellar mass was modeled to be 3.6 Gyr with [Fe/H]=0.45. Bottom panels: Fixed solar metallicity modeling yields an age of 7.1 Gyr, which is twice as old. The NSC is modeled to be half as young (~ 3 Gyr younger) if including metallicity constraints. &#34; srcset=&#34;
+               /post/project2/agefehfit_hu7c8c9b4c2ec17a49a1c028045ef20678_734736_4ae4205dfad7e6a5b0f3e48a670d72dd.jpg 400w,
+               /post/project2/agefehfit_hu7c8c9b4c2ec17a49a1c028045ef20678_734736_08fb057fece1e8f6323b59526fc4e806.jpg 760w,
+               /post/project2/agefehfit_hu7c8c9b4c2ec17a49a1c028045ef20678_734736_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/agefehfit_hu7c8c9b4c2ec17a49a1c028045ef20678_734736_4ae4205dfad7e6a5b0f3e48a670d72dd.jpg&#34;
+               width=&#34;80%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 4: 1D posterior probability density functions for fittings on the age and metallicity of the ancient burst (bulk mass). Top panels: With the cluster metallicity being constrained from stellar metallicity measurements, the bulk stellar mass was modeled to be 3.6 Gyr with [Fe/H]=0.45. Bottom panels: Fixed solar metallicity modeling yields an age of 7.1 Gyr, which is twice as old. The NSC is modeled to be half as young (~ 3 Gyr younger) if including metallicity constraints.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;Our reported younger age would challenge the mutual evolution of the NSC, the SMBH and the bulge (e.g., Graham &amp;amp; Spitler 2009), and may also challenge the formation scenario of infalling globular clusters (e.g., Gerhard 2001; Paumard et al. 2006) due to insufficient accumulation time.&lt;/p&gt;
+&lt;p&gt;This work contributes to the most accurate predictions of the number of compact objects at the Galactic Center, and the rate at which they merge, releasing gravitational waves detectable by laser interferometers such as LIGO (e.g., Petrovich &amp;amp; Antonini 2017; Hoang et al. 2018). Of particular note: the predicted number of neutron stars, when metallicity measurements are included, decreases significantly (by a factor of 3) compared to earlier predictions, based on the assumption of solar metallicity &lt;strong&gt;(Figure 5)&lt;/strong&gt;. This reduces the so-called “missing pulsar problem” (e.g., Johnston et al. 1995; Bates et al. 2011; Torne et al. 2021) and presents a more accurate description of the compact remnant population at the Galactic Center.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-5-imf-and-metallicity-are-crucial-cluster-properties-to-measure-for-predicting-the-number-of-compact-objects-and-their-gravitational-wave-merger-rates-at-the-galactic-center-high-metallicity-of-the-nsc-modeled-in-this-project-feh05-chen-et-al-2023a-yellow-predicts-3-fewer-neutron-stars-left-a-top-heavy-imf-α17-lu-et-al-2013-red-predicts--3-more-black-holes-2-more-neutron-stars-right-than-that-with-a-canonical-imf-chen-et-al-2023a&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, **Chen et al. 2023a**, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF **(Chen et al. 2023a)**.&#34; srcset=&#34;
+               /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_d298cebeaf334fc4535e7341ca460734.jpg 400w,
+               /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_5be8268daf1bdffe6c371e5636f5d519.jpg 760w,
+               /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_d298cebeaf334fc4535e7341ca460734.jpg&#34;
+               width=&#34;90%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, &lt;strong&gt;Chen et al. 2023a&lt;/strong&gt;, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF &lt;strong&gt;(Chen et al. 2023a)&lt;/strong&gt;.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Long-term gas feeding behavior of the central supermassive black hole</title>
+      <link>https://zhuochen-ucla.github.io/post/getting-started/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/getting-started/</guid>
+      <description>&lt;h4 id=&#34;publication-consistency-of-the-infrared-variability-of-sgr-a-over-22-yrhttpsiopscienceioporgarticle1038472041-8213ab3c68&#34;&gt;Publication: &lt;a href=&#34;https://iopscience.iop.org/article/10.3847/2041-8213/ab3c68&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Consistency of the Infrared Variability of SGR A* over 22 yr&lt;/a&gt;&lt;/h4&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;The Milky Way Galactic Center (GC), approximately 8 kpc from Earth, is host to the closest known supermassive black hole (SMBH). This makes it an excellent laboratory for studying the accretion properties of SMBHs. The accretion flow onto the SMBH at the GC gives rise to its radiative counterpart named Sgr A*. Sgr A* was initially detected in the near-infrared (NIR) with adaptive optics observations in 2002. While earlier data exists in form of speckle imaging (1995–2005) with shift-and-add technique, Sgr A* was not detected in the initial analysis. Here, we improved our speckle holography analysis techniques. This has improved the sensitivity of the resulting speckle images by up to a factor of three. See Figure 1.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-comparison-of-the-different-high-angular-resolution-techniques-used-to-image-the-gc-the-early-data-has-been-analyzed-with-a-shift-and-add-b-the-original-implementation-of-speckle-holography-and-c-the-new-implementation-presented-in-this-work-ao-data-taken-at-a-similar-time-is-shown-in-d-the-new-speckle-holography-c-improves-the-sensitivity-of-the-final-images-by-up-to-a-factor-of-three-compared-to-the-initial-speckle-holography&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Comparison of the different high angular resolution techniques used to image the GC. The early data has been analyzed with (a) Shift-and-add, (b) the original implementation of speckle holography, and (c) the new implementation presented in this work. AO data taken at a similar time is shown in (d). The new speckle holography (c) improves the sensitivity of the final images by up to a factor of three compared to the initial speckle holography.&#34; srcset=&#34;
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_5ed0b6b80eeba5f5069716ac611ef775.jpg 400w,
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_3a7c5f9c89b3375d0d0f452df12d9158.jpg 760w,
+               /post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig1_hu7c8c9b4c2ec17a49a1c028045ef20678_5577881_5ed0b6b80eeba5f5069716ac611ef775.jpg&#34;
+               width=&#34;718&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Comparison of the different high angular resolution techniques used to image the GC. The early data has been analyzed with (a) Shift-and-add, (b) the original implementation of speckle holography, and (c) the new implementation presented in this work. AO data taken at a similar time is shown in (d). The new speckle holography (c) improves the sensitivity of the final images by up to a factor of three compared to the initial speckle holography.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;With the new implemented speckle holography presented in this work, Sgr A* is now detectable in the majority of speckle epochs covering 7 yr (Figure 2). Here we report new infrared (IR) measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-speckle-holography-images-with-new-sgr-a-detections-white-circles-for-each-detection-the-k-magnitude-k-and-the-bootstrap-fraction-f-are-provided-these-are-the-first-ir-detections-of-sgr-a-in-the-late-1990s-and-early-2000s&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Speckle holography images with new Sgr A* detections (white circles). For each detection, the K magnitude (K) and the bootstrap fraction (F) are provided. These are the first IR detections of Sgr A* in the late 1990s and early 2000s.&#34; srcset=&#34;
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_88887c20adf05ca3b8027ed8f408f781.jpg 400w,
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_f6bb788c420839bf1404da3f1f990487.jpg 760w,
+               /post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig5_hudf7b8620e192de66d79d1f7e36df7824_1930420_88887c20adf05ca3b8027ed8f408f781.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;460&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Speckle holography images with new Sgr A* detections (white circles). For each detection, the K magnitude (K) and the bootstrap fraction (F) are provided. These are the first IR detections of Sgr A* in the late 1990s and early 2000s.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;The brightness of Sgr A* in the speckle data has an average observed K magnitude of 16.0, which corresponds to a dereddened flux density of 3.4 mJy. Furthermore, the flat power spectral density of Sgr A* between ∼80 days and 7 yr shows its uncorrelation in time beyond the proposed single power-law break of ∼245 minutes. We report that the brightness and its variability is consistent over 22 yr. Finally, we note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the NIR emission from accretion flow onto Sgr A*. The result is consistent with G1 being a self-gravitating object rather than a disrupting gas cloud. See Figure 3.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-light-curve-of-sgr-a-1998-2005-and-impact-of-g1ʼs-closest-approach-on-the-brightness-of-sgr-a-the-points-with-errorbars-are-the-confirmed-detections-of-sgr-a-the-arrows-mark-the-brightness-limit-of-sgr-a-in-other-non-detected-epochs-the-blue-dashed-line-marks-the-g1ʼs-periapse-2001-and-red-line-marks-the-predicted-peak-sgr-a-flux-due-to-the-closest-approach-of-g1-no-brightening-or-flares-of-sgr-a-ie-no-apparent-impacts-of-g1-on-the-sgr-a-ir-emission-were-observed-between-2001-and-2005&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Light curve of Sgr A* (1998-2005) and impact of G1ʼs closest approach on the brightness of Sgr A*. The points with errorbars are the confirmed detections of Sgr A*. The arrows mark the brightness limit of Sgr A* in other non-detected epochs. The blue dashed line marks the G1ʼs periapse (2001), and red line marks the predicted peak Sgr A* flux due to the closest approach of G1. No brightening or flares of Sgr A*, i.e., no apparent impacts of G1 on the Sgr A* IR emission, were observed between 2001 and 2005.&#34; srcset=&#34;
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_2ce728ee72be55233a85674a8af1f564.jpg 400w,
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_34cf086bf6eec76b8c89892387e493a0.jpg 760w,
+               /post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/getting-started/fig9_hu0d5614216981b10f93cb5832fa2d99f0_554649_2ce728ee72be55233a85674a8af1f564.jpg&#34;
+               width=&#34;760&#34;
+               height=&#34;498&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Light curve of Sgr A* (1998-2005) and impact of G1ʼs closest approach on the brightness of Sgr A*. The points with errorbars are the confirmed detections of Sgr A*. The arrows mark the brightness limit of Sgr A* in other non-detected epochs. The blue dashed line marks the G1ʼs periapse (2001), and red line marks the predicted peak Sgr A* flux due to the closest approach of G1. No brightening or flares of Sgr A*, i.e., no apparent impacts of G1 on the Sgr A* IR emission, were observed between 2001 and 2005.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
