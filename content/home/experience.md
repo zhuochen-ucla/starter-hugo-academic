@@ -7,7 +7,7 @@ widget: experience
 headless: false
 
 # Order that this section appears on the page.
-weight: 50
+weight: 60
 
 title: Teaching
 subtitle:
@@ -27,20 +27,6 @@ experience:
     company_url: ''
     #company_logo: org-gc
     location: UCLA
-    date_start: '2021-04-01'
-    date_end: '2021-06-25'
-    #description: |2-
-    #    Responsibilities include:
-    #    
-    #    * Analysing
-    #    * Modelling
-    #    * Deploying
-    #    
-  - title: Teaching Assistant
-    company: Astronomy 3, Nature of Universe
-    company_url: ''
-    #company_logo: org-gc
-    location: UCLA
     date_start: '2020-09-01'
     date_end: '2020-12-25'
   - title: Teaching Assistant
@@ -55,8 +41,8 @@ experience:
     company_url: ''
     #company_logo: org-gc
     location: UCLA
-    date_start: '2017-01-01'
-    date_end: '2017-03-25'
+    date_start: '2022-01-01'
+    date_end: '2022-03-25'
 
 design:
   columns: '2'

@@ -1,31 +1,33 @@
 ---
-title: "Unprecedented Near-infrared Brightness and Variability of Sgr A*"
+title: "Consistency of the Infrared Variability of SGR A* over 22 yr"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Tuan Do
-- Gunther Witzel
-- Abhimat K. Gautam1
 - admin
-- Andrea M. Ghez
-- Mark R. Morris
-- Eric E. Becklin
-- Anna Ciurlo
-- Matthew Hosek Jr
-- Gregory D. Martinez
-- Keith Matthews
-- Shoko Sakai1
-- Rainer Schödel
-
-
+- E. Gallego-Cano
+- T. Do
+- G. Witzel
+- A. M. Ghez
+- R. Schödel
+- B. N. Sitarski
+- E. E. Becklin
+- J. Lu
+- M. R. Morris
+- A. Dehghanfar
+- A. K. Gautam
+- A. Hees
+- M. W. Hosek Jr
+- S. Jia
+- A. C. Mangian
+- K. Matthews
 # Author notes (optional)
 author_notes:
-- 
+- "First author"
 
 date: "2019-09-10T0:00:00Z"
-doi: "10.3847/2041-8213/ab38c3"
+doi: "10.3847/2041-8213/ab3c68"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -40,10 +42,10 @@ publication_types: ["2"]
 publication: In *The Astroiphysical Journal*
 publication_short: In *ApJ*
 
-abstract: The electromagnetic counterpart to the Galactic center supermassive black hole, Sgr A*, has been observed in the near-infrared for over 20 yr and is known to be highly variable. We report new Keck Telescope observations showing that Sgr A* reached much brighter flux levels in 2019 than ever measured at near-infrared wavelengths. In the K' band, Sgr A* reached flux levels of ~6 mJy, twice the level of the previously observed peak flux from >13,000 measurements over 130 nights with the Very Large Telescope and Keck Telescopes. We also observe a factor of 75 change in flux over a 2 hr time span with no obvious color changes between 1.6 and 2.1 μm. The distribution of flux variations observed this year is also significantly different than the historical distribution. Using the most comprehensive statistical model published, the probability of a single night exhibiting peak flux levels observed this year, given historical Keck observations, is less than 0.3%. The probability of observing flux levels that are similar to all four nights of data in 2019 is less than 0.05%. This increase in brightness and variability may indicate a period of heightened activity from Sgr A* or a change in its accretion state. It may also indicate that the current model is not sufficient to model Sgr A* at high flux levels and should be updated. Potential physical origins of Sgr A*'s unprecedented brightness may be from changes in the accretion flow as a result of the star S0-2's closest passage to the black hole in 2018, or from a delayed reaction to the approach of the dusty object G2 in 2014. Additional multi-wavelength observations will be necessary to both monitor Sgr A* for potential state changes and to constrain the physical processes responsible for its current variability.
+abstract: We report new infrared (IR) measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies. Sgr A* was initially detected in the near-infrared (NIR) with adaptive optics observations in 2002. While earlier data exists in form of speckle imaging (1995–2005), Sgr A* was not detected in the initial analysis. Here, we improved our speckle holography analysis techniques. This has improved the sensitivity of the resulting speckle images by up to a factor of three. Sgr A* is now detectable in the majority of epochs covering 7 yr. The brightness of Sgr A* in the speckle data has an average observed K magnitude of 16.0, which corresponds to a dereddened flux density of 3.4 mJy. Furthermore, the flat power spectral density of Sgr A* between ~80 days and 7 yr shows its uncorrelation in time beyond the proposed single power-law break of ~245 minutes. We report that the brightness and its variability is consistent over 22 yr. This analysis is based on simulations using the Witzel et al. model to characterize IR variability from 2006 to 2016. Finally, we note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the NIR emission from accretion flow onto Sgr A*. The result is consistent with G1 being a self-gravitating object rather than a disrupting gas cloud.
 
 # Summary. An optional shortened abstract.
-summary: We report new Keck Telescope observations showing that the Galactic center supermassive black hole, Sgr A*, reached much brighter infrared flux levels in 2019 than ever measured. Sgr A* reached twice the flux level of the previously observed peak flux from >13,000 measurements over 130 nights. We also observe a factor of 75 change in flux over a 2 hr time span. Potential physical origins may be from changes in the accretion flow as a result of the star S0-2's closest passage to the black hole in 2018, or from a delayed reaction to the approach of the dusty object G2 in 2014. (See full abstract in the title link)
+summary: We report new infrared measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies. We report that the brightness and its variability is consistent over 22 yr. We note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the infrared emission from accretion flow onto Sgr A*. (See full abstract in the title link)
 
 tags: []
 

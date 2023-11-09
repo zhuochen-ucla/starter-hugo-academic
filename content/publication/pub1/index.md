@@ -1,34 +1,26 @@
 ---
-title: "Consistency of the Infrared Variability of SGR A* over 22 yr"
+title: "The Star Formation History of the Milky Way’s Nuclear Star Cluster"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- E. Gallego-Cano
 - T. Do
-- G. Witzel 
 - A. M. Ghez 
-- R. Schödel
-- B. N. Sitarski 
-- E. E. Becklin 
+- M. W. Hosek Jr 
+- A. Feldmeier-Krause
+- D. Chu
+- R. Bentley
 - J. Lu
 - M. R. Morris 
-- A. Dehghanfar
-- A. K. Gautam 
-- A. Hees 
-- M. W. Hosek Jr 
-- S. Jia
-- A. C. Mangian 
-- K. Matthews
 
 # Author notes (optional)
 author_notes:
 - "First author"
 
-date: "2019-09-11T00:00:00Z"
-doi: "10.3847/2041-8213/ab3c68"
+date: "2023-02-14T00:00:00Z"
+doi: "10.3847/1538-4357/aca8ad"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -43,10 +35,10 @@ publication_types: ["2"]
 publication: In *The Astroiphysical Journal*
 publication_short: In *ApJ*
 
-abstract: We report new infrared (IR) measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies. Sgr A* was initially detected in the near-infrared (NIR) with adaptive optics observations in 2002. While earlier data exists in form of speckle imaging (1995–2005), Sgr A* was not detected in the initial analysis. Here, we improved our speckle holography analysis techniques. This has improved the sensitivity of the resulting speckle images by up to a factor of three. Sgr A* is now detectable in the majority of epochs covering 7 yr. The brightness of Sgr A* in the speckle data has an average observed K magnitude of 16.0, which corresponds to a dereddened flux density of 3.4 mJy. Furthermore, the flat power spectral density of Sgr A* between ~80 days and 7 yr shows its uncorrelation in time beyond the proposed single power-law break of ~245 minutes. We report that the brightness and its variability is consistent over 22 yr. This analysis is based on simulations using the Witzel et al. model to characterize IR variability from 2006 to 2016. Finally, we note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the NIR emission from accretion flow onto Sgr A*. The result is consistent with G1 being a self-gravitating object rather than a disrupting gas cloud.
+abstract: The Milky Way's Nuclear Star Cluster (NSC) provides a unique opportunity to resolve the stellar population and study star formation in this extreme environment. Earlier studies that assumed uniform solar metallicity in NSC stars may have biased age estimates due to the age-metallicity degeneracy in star formation histories. We report the first star formation history of the Milky Way’s NSC that includes extensive stellar metallicity measurements from Gemini and VLT within the central 1.5 pc. Photometry and spectroscopy of 770 late-type stars are forward modeled with a Bayesian inference, finding the best fit with a two-component model. The dominant component contains 93% +/- 3% of the mass, is metal-rich ([M/H] ~ 0.45), and has an age of 5 +3/-2 Gyr, which is ∼3 Gyr younger than earlier studies with fixed (solar) metallicity; this younger age challenges coevolutionary models in which the NSC and supermassive black holes formed simultaneously at early times. The minor population component has low metallicity ([M/H] ~ -1.1) and contains ∼7% of the stellar mass. The age of the minor component is uncertain (0.1–5 Gyr old). We also provide refined predictions on compact remnant numbers and their gravitational-wave merger rates. These predictions result in 2–4 times fewer neutron stars compared to earlier predictions that assume solar metallicity, introducing a possible new path to understand the so-called "missing-pulsar problem". 
 
 # Summary. An optional shortened abstract.
-summary: We report new infrared measurements of the supermassive black hole at the Galactic Center, Sgr A*, over a decade that was previously inaccessible at these wavelengths. This enables a variability study that addresses variability timescales that are 10 times longer than earlier published studies. We report that the brightness and its variability is consistent over 22 yr. We note that the 2001 periapse of the extended, dusty object G1 had no apparent effect on the infrared emission from accretion flow onto Sgr A*. (See full abstract in the title link)
+summary: We report the first star formation history study of the Milky Ways nuclear star cluster (NSC), which includes observational constraints from a large sample of stellar metallicity measurements from Gemini and VLT. Photometry and spectroscopy of 770 late-type stars are forward modeled with a Bayesian inference, finding the best fit with a two-component model. The dominant metal-rich component is ~5 Gyr old, notably younger by ~3 Gyr than previous estimates. This suggests in-situ formation, while challenging the co-evolutionary models of NSCs and supermassive black holes. The minor metal-poor group favors globular cluster or dwarf galaxy infall. (See full abstract in the title link)
 
 tags: []
 

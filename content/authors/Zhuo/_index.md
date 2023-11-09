@@ -6,30 +6,33 @@ title: Zhuo Chen
 superuser: true
 
 # Role/position/tagline
-role: graduate student
+role: PHAST Postdoc Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: UCLA Astronomy and Astrophysics
-  url: http://www.astro.ucla.edu/
+- name: University of Washington, Department of Astronomy
+  url: https://astro.washington.edu/
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Milky Way Supermassive Black Hole
+- Galaxy formation and evolution
 - Star formation history of galactic nuclei
-- Star clusters & compact objects
+- Stellar populations
+- Nearby galaxies
+- Milky Way Supermassive Black Hole
+- Nuclear star clusters & compact objects
 - Timing variability
-- Infrared observing
+- Observing
 
 # Education to show in About widget
 education:
   courses:
   - course: Ph.D. in Astronomy and Astrophysics
     institution: University of California, Los Angeles
-    year: 2022 anticipated
+    year: 2022
   - course: M.S. in Astronomy and Astrophysics
     institution: University of California, Los Angeles
     year: 2018
@@ -44,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:zhuochen@astro.ucla.edu'
+  link: 'mailto:zczhuo@uw.edu'
 #link: '/#contact'
 #- icon: twitter
 #  icon_pack: fab
@@ -67,14 +70,14 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhuochen@astro.ucla.edu"
+email: "zczhuo@uw.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
 <div style="text-align: justify"> 
-Welcome! I am a sixth year graduate student in the Physics and Astronomy Department at UCLA, working in the <a href="http://www.astro.ucla.edu/~ghezgroup/gc/">Galactic Center group</a> with Professor <a href="http://astro.ucla.edu/~ghez/">Andrea Ghez</a> and Professor <a href="http://astro.ucla.edu/~tdo/index.html">Tuan Do</a>. My scientific research interests primarily focus on understanding the formation of the stellar population in galactic nuclei, the supermassive black hole at the Milky Way Galactic Center, and infrared astronomy observing. I'm currently studing the star formation history of the Milky Way nuclear star cluster for the first time with metallicity constraints. I have been accumulating experience for six years in the infrared astronomy observing in both photometry and spectroscopy using Keck Observatory Telescopes with adaptive optics, located at the Mauna Kea Summit in Hawaii. 
+Welcome! I am the PHAST Postdoc Fellow in the Astronomy Department at the University of Washington, leading the Panchromatic Hubble Andromeda Southern Treasury (PHAST, PI: <a href="https://faculty.washington.edu/benw1/">B. Williams</a>) survey program. My primary scientific research interests focus on understanding the origins and evolutions of galaxies, nuclei and stars we observe today using resolved stellar populations. I'm currently working on creating a legacy map of M31’s southern star-forming disk with photometric observations from the Hubble Space Telescope (HST), and investigating the ancient formation history, merger history and evolution of Andromeda.   
 </div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ZhuoChen.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_ZCHEN2023.pdf" "newtab" >}}CV{{< /staticref >}}.

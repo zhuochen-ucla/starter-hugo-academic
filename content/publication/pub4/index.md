@@ -18,8 +18,8 @@ authors:
 author_notes:
 - 
 
-#date: "2021-12-07T0:00:00Z"
-#doi: "10.3847/2041-8213/ab38c3"
+date: "2019-07-07T0:00:00Z"
+doi: "10.3847/1538-4357/ac3910"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"

@@ -6,7 +6,7 @@ title: Zhuo Chen
 superuser: true
 
 # Role/position/tagline
-role: graduate student
+role: PHAST postdoc fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:

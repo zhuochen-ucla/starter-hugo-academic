@@ -20,19 +20,19 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: zhuochen@astro.ucla.edu
+email: zczhuo@uw.edu
 # phone: 888 888 88 88
 address:
-  street: 430 Portola Plaza
-  city: Los Angeles
-  region: CA
-  postcode: '90095'
+  street: Department of Astronomy, University of Washington, 3910 15th Ave NE
+  city: Settle
+  region: WA
+  postcode: '98195'
   country: United States
   country_code: US
 # coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
-directions: Knudsen 3-145 J
+# directions: Knudsen 3-145 J
 # office_hours:
 #   - 'Monday 10:00 to 13:00'
 #   - 'Wednesday 09:00 to 10:00'
